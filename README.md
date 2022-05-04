@@ -9,11 +9,15 @@
 - 😄 Pronouns: he/his - ele/dele
 - ⚡ Fun fact: Yes, Warlike <b>is</b> my name!
 
+<br/>
+
 <div align="center">
   <a href="https://github.com/warlikerichard"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=warlikerichard&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=F3B333&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=warlikerichard&layout=compact&langs_count=7&theme=dark&title_color=F3B333&count_private=true&exclude_repo=vengeful-soul-prototype-game"/>
 </div>
+
+<br/>
 
 <div style="display: inline_block;"><br>
   <img align="center" alt="War-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -32,4 +36,9 @@
   <a href="https://www.instagram.com/w4rl1k3_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:warkillerdss@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/warlike-richard-da-silva-soares-867178225/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://discordapp.com/users/Warlike#0715" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 </div>
+
+<iframe src="https://www.facebook.com" width="100%" height="300">
+  <p>Your browser does not support iframes.</p>
+</iframe>
