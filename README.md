@@ -41,4 +41,5 @@
 </div>
 
 <h2>Online projects:</h2>
-  - https://ignews-blog-nine.vercel.app/
+  - https://ignews-blog-nine.vercel.app/ (note that you can't make a subscriptions here, test mode is enabled for security reasons)
+  - https://space-traveling-lovat.vercel.app/
