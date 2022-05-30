@@ -19,6 +19,14 @@
 
 <br/>
 
+<h2>Online projects:</h2>
+
+  - https://ignews-blog-nine.vercel.app/ (note that you can't make a subscription here, test mode is enabled for security reasons)
+  
+  - https://space-traveling-lovat.vercel.app/
+
+##
+
 <div style="display: inline_block;"><br>
   <img align="center" alt="War-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="War-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -29,12 +37,6 @@
   <img align="center" alt="War-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="War-pic" height="150" style="border-radius:50%;" src="https://pps.whatsapp.net/v/t61.24694-24/260122100_1429479604151382_609117728432427546_n.jpg?ccb=11-4&oh=82e7c50c255c0bc903e35a20b53371db&oe=628137C8">
 </div>
-
-<h2>Online projects:</h2>
-
-  - https://ignews-blog-nine.vercel.app/ (note that you can't make a subscription here, test mode is enabled for security reasons)
-  
-  - https://space-traveling-lovat.vercel.app/
 
 ##
 
