@@ -30,6 +30,12 @@
   <img align="right" alt="War-pic" height="150" style="border-radius:50%;" src="https://pps.whatsapp.net/v/t61.24694-24/260122100_1429479604151382_609117728432427546_n.jpg?ccb=11-4&oh=82e7c50c255c0bc903e35a20b53371db&oe=628137C8">
 </div>
 
+<h2>Online projects:</h2>
+
+  - https://ignews-blog-nine.vercel.app/ (note that you can't make a subscription here, test mode is enabled for security reasons)
+  
+  - https://space-traveling-lovat.vercel.app/
+
 ##
 
 <div>
@@ -40,8 +46,3 @@
   <a href="https://discordapp.com/users/Warlike#0715" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 </div>
 
-<h2>Online projects:</h2>
-
-  - https://ignews-blog-nine.vercel.app/ (note that you can't make a subscription here, test mode is enabled for security reasons)
-  
-  - https://space-traveling-lovat.vercel.app/
