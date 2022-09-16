@@ -1,10 +1,9 @@
 ### Hi there 👋
 <h1>Welcome to my profile!</h1>
 
-- 🔭 I’m currently working on a project that will allow users to have easy control over a whatsapp bot.
+- 🔭 I’m currently working on a scientific research.
 - 💻 Knowledge about front-end development, game dev and a bit of back-end.
 - 🌱 I’m currently learning React and NextJS.
-- 💬 Ask me about my ideas!
 - 📫 How to reach me: warlikerichard@hotmail.com
 - 😄 Pronouns: he/his - ele/dele
 - ⚡ Fun fact: Yes, Warlike <b>is</b> my name!
